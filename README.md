@@ -1,6 +1,6 @@
 ## Hello 🐧
 
-![](https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/7765120/miner-is-working-with-a-pick-clipart-sm.png)
+<img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/7765120/miner-is-working-with-a-pick-clipart-sm.png" width="128">
 
 ```mermaid
 pie title 
